@@ -1,0 +1,3 @@
+### Using PCA
+
+This assignment consists of several tasks related to analyzing historical market data for stocks in the S&P 500 index. The tasks involve tasks such as data loading, data filtering, data manipulation using pandas dataframes, calculating returns, performing principal component analysis (PCA) and visualizing results. The submission consists of a report and a fully-documented Python code file. 

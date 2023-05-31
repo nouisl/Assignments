@@ -1,0 +1,3 @@
+### Data Analysis using PySpark and calculating distance between Trajectories
+
+This assignment consisted of two parts. Part 1 asked to use PySpark to analyse the GPS trajectory dataset that was collected in the Geolife project (Microsoft Research Asia) over a period of five years by 100+ people and to write a report about it. Part 2 asked to come up with an idea for a measure that can quantify how much any two given trajectories differ from each other. The result should be presented in a report.
