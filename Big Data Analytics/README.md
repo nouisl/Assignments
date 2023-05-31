@@ -1,4 +1,4 @@
-This module aims to introduce the student to middleware often used in Big Data analytics and implementing algorithms using such middleware.<br />
+This module aims to introduce the student to middleware often used in Big Data analytics and implementing algorithms using such middleware.
 
 > **Learning Outcomes**:
 > <br />- Understanding of Algorithmic approaches for handling batch and streaming analysis
