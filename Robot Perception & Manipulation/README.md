@@ -6,3 +6,5 @@ This module aims to provide students with a comprehensive understanding of the b
 > <br />- Debate the benefits and drawbacks of the various methods in robot perception and manipulation.
 > <br />- Apply the taught methods in real-world applications (e.g., warehouse robotics problems).
 > <br />- Illustrate hands-on experience using tools as well as coding of own algorithms for robot perception and manipulation.
+> <br />-  Self-management readiness to accept responsibility (i.e. leadership), flexibility, resilience, self-starting, appropriate assertiveness, time management, readiness to improve own performance based on feedback/reflective learning.
+> <br />-  Problem solving analysing facts and situations and applying creative thinking to develop appropriate solutions.
