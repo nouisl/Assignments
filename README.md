@@ -5,8 +5,8 @@ A range of completed assignments at university.
 - Robot Perception & Manipulation
 - Big Data Analytics
 
-*Java*:
+<br />*Java*:
 - Autonomous Mobile Robotics
 
-*R*:
+<br />*R*:
 - Computer-based Trading in Financial Markets
