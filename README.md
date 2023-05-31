@@ -1,7 +1,6 @@
 # Assignments
-A range of completed assignments at university using: 
-
-
+A range of completed assignments at university. 
+<br />
 *Python*:
 - Robot Perception & Manipulation
 - Big Data Analytics
