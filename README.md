@@ -1,12 +1,12 @@
-# Assignments
+## Assignments
 A range of completed assignments at university. 
 
-<br />* 🐍 Python*:
+<br />🐍 **Python**:
 - Robot Perception & Manipulation
 - Big Data Analytics
 
-<br />* ☕ Java*:
+<br />*☕* **Java**:
 - Autonomous Mobile Robotics
 
-<br />*📈 R*:
+<br />📈 **R**:
 - Computer-based Trading in Financial Markets
