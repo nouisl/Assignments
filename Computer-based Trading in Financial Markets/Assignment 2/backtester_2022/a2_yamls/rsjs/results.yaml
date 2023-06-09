@@ -1,0 +1,26 @@
+username: sgnislam
+periods:
+  startIn: 1
+  endIn: 773
+  startOut: 774
+  endOut: 2000
+ins:
+  short: 5.0
+  medium: 50.0
+  long: 300.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 
+  rank_on_out: 3.0
+out:
+  short: 10.0
+  medium: 50.0
+  long: 300.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 0
+  profit: 
+  rank_on_in: 18.0
