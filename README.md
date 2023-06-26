@@ -7,6 +7,7 @@ A range of completed assignments at university.
 
 <br />*☕* **Java**:
 - Autonomous Mobile Robotics
+- Computer Networks
 
 <br />📈 **R**:
 - Computer-based Trading in Financial Markets
